@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duoaoqiu.github.io/ncom/sitemap.xml
